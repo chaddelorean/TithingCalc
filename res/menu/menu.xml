@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="View History" android:id="@+id/viewhistory"></item><item android:id="@+id/export" android:title="Save to History"></item><item android:id="@+id/change_date" android:title="Change Date"></item><item android:id="@+id/about" android:title="Contact the Developers"></item>
+    
+    
+    
+    
+    
+</menu>

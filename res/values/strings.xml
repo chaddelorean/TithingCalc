@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mormon Tithing Calculator</string>
+    <string name="Title">Tithing and Other Offerings</string>
+    <string name="Amount">Enter amount $</string>
+    <string name="Owed">Total donations:</string>
+    <string name="Add">Add</string>
+    <string name="Remaining">Remaining:</string>
+    <string name="Reset">Reset</string>
+    <string-array name="item">
+        <item>Fast offerings</item>
+        <item>Ward missionary</item>
+        <item>General missionary</item>
+        <item>Book of Mormon</item>
+        <item>Humanitarian aid</item>
+        <item>Temple Construction</item>
+        <item>Perpetual education</item>
+        <item>Other</item>
+    </string-array>
+    <string name="enteramount">Enter amount $</string>
+    <string name="tithing">Tithing:</string>
+    <string name="fastofferings">Fast offerings:</string>
+    <string name="wmissionary">Ward missionary: </string>
+    <string name="gmissionary">General missionary:</string>
+    <string name="bom">Book of Mormon:</string>
+    <string name="humanitarian">Humanitarian aid:</string>
+    <string name="temple">Temple construction:</string>
+    <string name="education">Perpetual education:</string>
+    <string name="other">Other:</string>
+    <string name="devInfo">If you have any problems, questions, or suggestions on how we can improve this app, please send us an email at: \n\nldsdudes@gmail.com\n\nLike us on facebook: LDSDudes\n\nWe are a small group of returned missionaries working hard to improve our talents while we attend college, and we greatly appreciate any input you offer. If you feel that this app does not live  up to its promises, please contact us and we will do our best to make things right.\n\nCopyright 2011 ©</string>
+    <string name="filename">Enter in file name</string>
+    <string name="exportstring">File saved successfully to:\n\n/MormonTCalc/tithingdata.csv</string>
+    <string name="email">Enter in email address</string>
+    <string name="send">Send</string>
+    <string name="ytd">YTD donations: </string>
+    <string name="viewhistory">View current history</string>
+</resources>
